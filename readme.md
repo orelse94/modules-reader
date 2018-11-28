@@ -1,8 +1,8 @@
 # Modules - Reader
 A crawler that reads package.json an pours it into XSLX file with the module name and version
 
-and I'm:
-![XSLX](https://media.giphy.com/media/fHwZuYivyVb3kW4eHy/giphy.gif)
+Here is a cat for getting your attention!
+[Cat](https://media.giphy.com/media/JIX9t2j0ZTN9S/giphy.gif)
 
 
 # Installing & running
